@@ -1,12 +1,3 @@
----
-name: "\U0001F41E Bug"
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
 name: "🐞 Bug"
 description: "버그 제보"
 labels: ["bug"]
